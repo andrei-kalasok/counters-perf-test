@@ -8,8 +8,6 @@
 
 package org.akolosok.metrics.metrics;
 
-import java.io.Serializable;
-import java.util.concurrent.atomic.AtomicLong;
 
 // CHECKSTYLE:OFF
 /**
