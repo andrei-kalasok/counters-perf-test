@@ -3,6 +3,8 @@ package org.akolosok.metrics.metrics;
 import com.codahale.metrics.Clock;
 
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
